@@ -1,0 +1,27 @@
+{
+    "name": "ph",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./Hello World.js",
+    "author": {
+        "name": "Orlac",
+        "email": "orlac@rambler.ru"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/orlac/ph.git"
+    },
+    "dependencies" : {
+        "request" : "x",
+        "cheerio" : "x",
+        "iconv" : "x",
+        "sleep" : "x"
+      },
+    "bugs": {
+        "url": "http://github.com/orlac/ph/issues"
+    }
+}
